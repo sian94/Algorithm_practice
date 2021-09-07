@@ -22,3 +22,8 @@
 [PressKeypad.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/PressKeypad.py
 [NumberAlphabet.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/NumberAlphabet.py
 [NewID.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/NewID.py
+
+
+## Level 2
+|No.|Title|File Name|Date|
+|:---:|:---|:---|:---:|
